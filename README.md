@@ -1,2 +1,2 @@
 # GitLearningRepo
-This repo is a part of Git Learning
+This repo is a part of Git Learning.
